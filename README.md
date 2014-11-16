@@ -18,6 +18,8 @@ See the [project Page](http://roachhd.github.io/turning-tumblr)
 
 [Demo 3](http://roachhd.github.io/turning-tumblr/demo/demo5.html)
 
+[Demo 4](http://roachhd.github.io/turning-tumblr/demo/demo6.html)
+
 
 
 
@@ -26,7 +28,7 @@ See the [project Page](http://roachhd.github.io/turning-tumblr)
 
 ######Tasty tumblr accounts for gifs.
 
-- [gifmovie](http://gifmovie.tubmlr.com) -movie snippets as gifs
+- [gifmovie](http://gifmovie.tumblr.com/) -movie snippets as gifs
 - [Lacy Micallef](http://laceymicallef.com/) - awesome animated pixel art
 - [Mr Gif](http://mr-gif.com/) - just very cool
 
