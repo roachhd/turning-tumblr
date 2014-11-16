@@ -8,18 +8,29 @@ Just include `app.js`, `jquery` and your good to go. See the demo folder for how
 The gh-pages branch includes the project page, which has a Tumblr background, and a bunch of demos. 
 The master beach has the `base.html` and `app.js` as well as a `demo` folder to show usage. But it's super easy to use and modify some variables. 
 
+See the [project Page](http://roachhd.github.io/turning-tumblr)
+
+######Demos
+
+[Demo 1](https://roachhd.github.io/turning-tumblr/demo/demo.html)
+
+[Demo 2](http://roachhd.github.io/turning-tumblr/demo/demo4.html)
+
+[Demo 3](http://roachhd.github.io/turning-tumblr/demo/demo5.html)
+
+[Demo 4](http://roachhd.github.io/turning-tumblr/demo/demo6.html)
+
+
+
+
 ---
 
 
 ######Tasty tumblr accounts for gifs.
 
-- [gifmovie](http://gifmovie.tubmlr.com) -movie snippets as gifs
+- [gifmovie](http://gifmovie.tumblr.com/) -movie snippets as gifs
 - [Lacy Micallef](http://laceymicallef.com/) - awesome animated pixel art
 - [Mr Gif](http://mr-gif.com/) - just very cool
 
 
 ---
-
-[Demo 1](http://roachhd.github.io/turning-tumblr/demo/)
-
-[Project Page](http://roachhd.github.io/turning-tumblr)
