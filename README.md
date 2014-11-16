@@ -12,8 +12,8 @@ See the [project Page](http://roachhd.github.io/turning-tumblr)
 
 ######Demos
 
-[Demo 1](https://roachhd.github.io/turning-tumblr/demo/index.html)
-[Demo 2](http://roachhd.github.io/turning-tumblr/demo/demo1.html)
+[Demo 1](https://roachhd.github.io/turning-tumblr/demo/demo.html)
+[Demo 2](http://roachhd.github.io/turning-tumblr/demo/demo4.html)
 
 
 
